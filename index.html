@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>220 LABS — Drafts & Notes</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>220 LABS</h1>
+    <nav>
+      <a href="index.html">Publish</a>
+      <a href="link-pages.html">Link Pages</a>
+    </nav>
+  </header>
+
+  <main>
+    <section id="upload-section">
+      <h2>Create a New Project</h2>
+
+      <label for="project-title">Project Title</label>
+      <input type="text" id="project-title" placeholder="e.g. Research Notes — April" />
+
+      <label for="project-type">Content Type</label>
+      <select id="project-type">
+        <option value="text">Text / Notes</option>
+        <option value="pdf">PDF Document</option>
+        <option value="image">Image</option>
+        <option value="video">Video File Info</option>
+      </select>
+
+      <div id="text-input-area">
+        <label for="project-text">Write your notes</label>
+        <textarea id="project-text" rows="8" placeholder="Type your draft here..."></textarea>
+      </div>
+
+      <div id="file-input-area" style="display:none;">
+        <label for="project-file">Choose a file</label>
+        <input type="file" id="project-file" accept=".pdf,.jpg,.jpeg,.png,.gif,.mp4,.webm" />
+        <p class="hint">Files are stored in your browser only. They are not uploaded anywhere.</p>
+      </div>
+
+      <label for="secret-code">Secret Code (optional)</label>
+      <input type="text" id="secret-code" placeholder="e.g. 220L-DRAFT-001" />
+      <p class="hint">
+        If you set a secret code, anyone with that code can open this project
+        on the <a href="link-pages.html">Link Pages</a> page.
+      </p>
+
+      <button id="save-project">Save Project</button>
+    </section>
+
+    <section id="projects-section">
+      <h2>Your Projects</h2>
+      <div id="projects-list"></div>
+    </section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
