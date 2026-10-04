@@ -1,4 +1,4 @@
-# 220LABS - Forever-Free Project Creation
+# 220 LABS - Forever-Free Project Creation
 
 
 220 LABS For project creation easily for drafts.
@@ -10,3 +10,11 @@
 ## What are the use cases for 220 LABS?
 
 220 LABS has no limits to what you create it can be videos, PDF's, documents, videos, information and photos.
+
+## How do i use 220 LABS?
+
+Simply head to https://web.220labs.site.je/ or http://web.220labs.site.je/ although https://web.220labs.site.je/ (https) is more often used.
+
+## What are some cool facts about 220 LABS?
+
+In the Link Pages tab "https://web.220labs.site.je/link-pages.html" typing in "FIRST-PROJECT" gives you the first ever project in 220 LABS!
