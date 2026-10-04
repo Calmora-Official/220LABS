@@ -15,8 +15,7 @@
 
 Simply head to https://web.220labs.site.je/ or http://web.220labs.site.je/ although https://web.220labs.site.je/ (https) is more often used.
 
-## What are some cool facts about 220 LABS?
+## What are some cool facts about 220 LABS that i can put in the link pages tab?
 
-In the Link Pages tab "https://web.220labs.site.je/link-pages.html" typing in "FIRST-PROJECT" gives you the first ever project in 220 LABS!
-
-### hi
+1. In the Link Pages tab "https://web.220labs.site.je/link-pages.html" typing in "FIRST-PROJECT" gives you the first ever project in 220 LABS!
+2.  Typing "220L-32352343225642565463423847953284570.220LABS.332123112312311123123123123123123312312573485726598723475629384658723465723465872364578634875623489756283746578236478Y9879YG978DF6G78DSR6T789SD6R786AS78ER678ASE6R987W6ER7866W9E8R687WE6R786986dsf897d6f7s6dfs6e978f6se7fse6" gives you another secret code.
